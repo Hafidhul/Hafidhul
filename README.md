@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hafidhul
 - 👀 I’m interested in creating a database and analyzing those database
-- 🌱 I’m currently learning anything (no idea yet)
+- 🌱 I’m currently learning anything (no idea yet; [Help!])
 - 💞️ I’m looking to collaborate on any project that i can handle
 - 📫 How to reach me hafidhul@gmail.com
 
